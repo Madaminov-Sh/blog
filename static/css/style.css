@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Prata&family=Princess+Sofia&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main .part {
+    background-color: #FAFAFA !important;
+}
+.main .card-text {
+    font-family: 'Prata', serif;
+    font-size: 15px;
+    line-height: 28px;
+}
+.main .btn {
+    border: 1px solid #000;
+    border-radius: 25px !important;
+}
+
+.card img {
+    width: 450px !important;
+    height: 350px !important;
+}
